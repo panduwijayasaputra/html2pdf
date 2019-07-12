@@ -1,0 +1,11 @@
+table {
+    margin-bottom: 1rem;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 0 1rem;
+}
